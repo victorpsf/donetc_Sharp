@@ -8,3 +8,5 @@
 <ul>
 
 ## simples aplicativo web para estudo
+
+vamos criar um aplicativo utilizando dotnet core
